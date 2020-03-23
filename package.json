@@ -1,0 +1,23 @@
+{
+  "name": "web-sandbox",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "parcel serve src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwilliam/web-sandbox.git"
+  },
+  "keywords": ["editor"],
+  "author": "William L <w-lindvall@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shwilliam/web-sandbox/issues"
+  },
+  "homepage": "https://github.com/shwilliam/web-sandbox#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
